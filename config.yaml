@@ -1,0 +1,4 @@
+gh-user: javidaslan
+gh-token: <token>
+repo-allowlist: 'github.com/javidaslan/terragrunt-infra'
+repo-config: server-side-configuration/repos.yaml
